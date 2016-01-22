@@ -1,0 +1,10 @@
+---
+th:
+  simple_form:
+    'yes': ใช่
+    'no': ไม่มี
+    required:
+      text: จำเป็นต้องใช้
+      mark: "*"
+    error_notification:
+      default_message: 'โปรดตรวจสอบปัญหาที่เกิดขึ้นดังต่อไปนี้:'

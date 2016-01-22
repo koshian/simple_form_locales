@@ -1,0 +1,10 @@
+---
+eu:
+  simple_form:
+    'yes': Bai
+    'no': Ez dago
+    required:
+      text: derrigorrezkoa
+      mark: "*"
+    error_notification:
+      default_message: 'Mesedez, berrikusi azpitik arazoen:'

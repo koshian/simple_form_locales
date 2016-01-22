@@ -1,0 +1,10 @@
+---
+iw:
+  simple_form:
+    'yes': כֵּן
+    'no': לא
+    required:
+      text: דָרוּשׁ
+      mark: "*"
+    error_notification:
+      default_message: 'אנא בדוק את הבעיות הבאות:'

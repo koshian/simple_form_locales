@@ -1,0 +1,10 @@
+---
+id:
+  simple_form:
+    'yes': iya nih
+    'no': Tidak
+    required:
+      text: wajib
+      mark: "*"
+    error_notification:
+      default_message: 'Harap tinjau masalah di bawah ini:'

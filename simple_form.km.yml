@@ -1,0 +1,10 @@
+---
+km:
+  simple_form:
+    'yes': បាទ
+    'no': គ្មាន
+    required:
+      text: ដែល​បាន​ទាមទារ
+      mark: "*"
+    error_notification:
+      default_message: 'សូម​ពិនិត្យ​ឱ្យ​មាន​បញ្ហា​ដូច​ខាងក្រោម​នេះ​:'

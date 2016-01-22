@@ -1,0 +1,10 @@
+---
+hr:
+  simple_form:
+    'yes': Da
+    'no': Ne
+    required:
+      text: potreban
+      mark: "*"
+    error_notification:
+      default_message: 'Molimo pregledajte probleme navedene u nastavku:'

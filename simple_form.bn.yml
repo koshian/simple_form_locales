@@ -1,0 +1,10 @@
+---
+bn:
+  simple_form:
+    'yes': হাঁ
+    'no': না
+    required:
+      text: প্রয়োজনীয়
+      mark: "*"
+    error_notification:
+      default_message: 'নীচের সমস্যার পর্যালোচনা করুন:'

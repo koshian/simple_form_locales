@@ -1,0 +1,10 @@
+---
+ca:
+  simple_form:
+    'yes': Sí
+    'no': Sense
+    required:
+      text: necessari
+      mark: "*"
+    error_notification:
+      default_message: 'Si us plau revisi els problemes següents:'

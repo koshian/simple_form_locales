@@ -1,0 +1,10 @@
+---
+ny:
+  simple_form:
+    'yes': Inde
+    'no': 'No'
+    required:
+      text: chofunika
+      mark: "*"
+    error_notification:
+      default_message: 'Chonde sinkha-sinkhani mavuto pansipa:'

@@ -1,0 +1,10 @@
+---
+mt:
+  simple_form:
+    'yes': Iva
+    'no': Nru
+    required:
+      text: meħtieġa
+      mark: "*"
+    error_notification:
+      default_message: 'Jekk jogħġbok irrevedi l-problemi ta ''hawn taħt:'

@@ -1,0 +1,10 @@
+---
+gu:
+  simple_form:
+    'yes': હા
+    'no': કોઈ
+    required:
+      text: જરૂરી
+      mark: "*"
+    error_notification:
+      default_message: 'નીચે સમસ્યાઓ સમીક્ષા કરો:'

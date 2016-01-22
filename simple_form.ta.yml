@@ -1,0 +1,10 @@
+---
+ta:
+  simple_form:
+    'yes': ஆம்
+    'no': இல்லை
+    required:
+      text: தேவையான
+      mark: "*"
+    error_notification:
+      default_message: 'கீழே பிரச்சினைகள் மதிப்பாய்வு செய்க:'

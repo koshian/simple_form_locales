@@ -1,0 +1,10 @@
+---
+ha:
+  simple_form:
+    'yes': A
+    'no': Babu
+    required:
+      text: da ake bukata
+      mark: "*"
+    error_notification:
+      default_message: 'Don Allah a duba matsalolin da ke ƙasa:'

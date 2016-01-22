@@ -1,0 +1,10 @@
+---
+hu:
+  simple_form:
+    'yes': Igen
+    'no': Nem
+    required:
+      text: kívánt
+      mark: "*"
+    error_notification:
+      default_message: 'Kérjük, olvassa el az alábbi problémák:'

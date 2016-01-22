@@ -1,0 +1,10 @@
+---
+pa:
+  simple_form:
+    'yes': ਜੀ
+    'no': ਕੋਈ
+    required:
+      text: ਦੀ ਲੋੜ ਹੈ
+      mark: "*"
+    error_notification:
+      default_message: 'ਹੇਠ ਸਮੱਸਿਆ ਦਾ ਜਾਇਜ਼ਾ ਕਰੋ ਜੀ:'

@@ -1,0 +1,10 @@
+---
+su:
+  simple_form:
+    'yes': Nuhun
+    'no': Teu
+    required:
+      text: diperlukeun
+      mark: "*"
+    error_notification:
+      default_message: 'Mangga nempoan masalah di handap ieu:'

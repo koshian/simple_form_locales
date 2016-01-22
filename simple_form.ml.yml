@@ -1,0 +1,10 @@
+---
+ml:
+  simple_form:
+    'yes': അതെ
+    'no': ഇല്ല
+    required:
+      text: ആവശ്യമാണ്
+      mark: "*"
+    error_notification:
+      default_message: 'താഴെ പ്രശ്നങ്ങൾ അവലോകനം ചെയ്യുക:'

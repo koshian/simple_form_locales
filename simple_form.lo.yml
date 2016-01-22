@@ -1,0 +1,10 @@
+---
+lo:
+  simple_form:
+    'yes': ແມ່ນ​ແລ້ວ
+    'no': ບໍ່​ມີ
+    required:
+      text: ຕ້ອງ​ການ
+      mark: "*"
+    error_notification:
+      default_message: 'ກະ​ລຸ​ນາ​ກວດ​ບັນ​ຫາ​ຂ້າງ​ລຸ່ມ​ນີ້​:'

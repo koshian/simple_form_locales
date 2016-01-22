@@ -1,0 +1,10 @@
+---
+eo:
+  simple_form:
+    'yes': Jes
+    'no': Neniu
+    required:
+      text: postulata
+      mark: "*"
+    error_notification:
+      default_message: 'Bonvole revidu la problemoj sube:'

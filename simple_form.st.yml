@@ -1,0 +1,10 @@
+---
+st:
+  simple_form:
+    'yes': Ha e le hantle
+    'no': Ha ho
+    required:
+      text: ho hlokahala
+      mark: "*"
+    error_notification:
+      default_message: 'O kotjwa hore o e lekola ho mathata a tlaase mona:'

@@ -1,0 +1,10 @@
+---
+ga:
+  simple_form:
+    'yes': 'Yes'
+    'no': Uimh
+    required:
+      text: ag teastáil
+      mark: "*"
+    error_notification:
+      default_message: 'Déan iniúchadh ar na fadhbanna thíos:'

@@ -1,0 +1,10 @@
+---
+ne:
+  simple_form:
+    'yes': हो
+    'no': कुनै
+    required:
+      text: आवश्यक
+      mark: "*"
+    error_notification:
+      default_message: 'तल समस्या समीक्षा गर्नुहोस्:'

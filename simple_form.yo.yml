@@ -1,0 +1,10 @@
+---
+yo:
+  simple_form:
+    'yes': Bẹẹni
+    'no': 'No'
+    required:
+      text: beere
+      mark: "*"
+    error_notification:
+      default_message: 'Jọwọ ṣe ayẹwo awọn isoro ni isalẹ:'

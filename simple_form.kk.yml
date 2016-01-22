@@ -1,0 +1,10 @@
+---
+kk:
+  simple_form:
+    'yes': Иә
+    'no': Жоқ
+    required:
+      text: қажет
+      mark: "*"
+    error_notification:
+      default_message: 'Төменде проблемаларды қарау сұраймыз:'

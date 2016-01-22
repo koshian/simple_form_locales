@@ -1,0 +1,10 @@
+---
+bg:
+  simple_form:
+    'yes': Да
+    'no': Не
+    required:
+      text: изисква
+      mark: "*"
+    error_notification:
+      default_message: 'Моля, прегледайте проблемите по-долу:'

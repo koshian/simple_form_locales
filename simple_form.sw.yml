@@ -1,0 +1,10 @@
+---
+sw:
+  simple_form:
+    'yes': Ndiyo
+    'no': Hakuna
+    required:
+      text: inavyotakiwa
+      mark: "*"
+    error_notification:
+      default_message: 'Tafadhali kupitia matatizo hapa chini:'

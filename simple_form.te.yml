@@ -1,0 +1,10 @@
+---
+te:
+  simple_form:
+    'yes': అవును
+    'no': ఏ
+    required:
+      text: అవసరం
+      mark: "*"
+    error_notification:
+      default_message: 'క్రింద సమస్యలు సమీక్షించండి:'

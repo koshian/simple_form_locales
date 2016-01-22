@@ -1,0 +1,10 @@
+---
+ka:
+  simple_form:
+    'yes': დიახ
+    'no': არარის
+    required:
+      text: საჭირო
+      mark: "*"
+    error_notification:
+      default_message: 'გთხოვთ განიხილოთ პრობლემები ქვემოთ:'

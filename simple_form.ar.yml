@@ -1,0 +1,10 @@
+---
+ar:
+  simple_form:
+    'yes': نعم فعلا
+    'no': لا
+    required:
+      text: مطلوب
+      mark: "*"
+    error_notification:
+      default_message: 'يرجى مراجعة المشاكل أدناه:'

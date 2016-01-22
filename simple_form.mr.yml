@@ -1,0 +1,10 @@
+---
+mr:
+  simple_form:
+    'yes': होय
+    'no': कोणत्याही
+    required:
+      text: आवश्यक
+      mark: "*"
+    error_notification:
+      default_message: 'खालील समस्या पुनरावलोकन करा:'

@@ -1,0 +1,10 @@
+---
+ko:
+  simple_form:
+    'yes': 네
+    'no': 아니
+    required:
+      text: 필요
+      mark: "*"
+    error_notification:
+      default_message: '아래의 문제를 검토하십시오 :'

@@ -1,0 +1,10 @@
+---
+is:
+  simple_form:
+    'yes': Já
+    'no': 'No'
+    required:
+      text: krafist
+      mark: "*"
+    error_notification:
+      default_message: 'Vinsamlegast skoðaðu vandamál fyrir neðan:'

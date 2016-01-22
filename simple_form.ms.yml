@@ -1,0 +1,10 @@
+---
+ms:
+  simple_form:
+    'yes': Ya
+    'no': Tiada
+    required:
+      text: diperlukan
+      mark: "*"
+    error_notification:
+      default_message: 'Sila semak masalah di bawah:'

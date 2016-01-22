@@ -1,0 +1,10 @@
+---
+tg:
+  simple_form:
+    'yes': Ҳа
+    'no': Нест
+    required:
+      text: талаб
+      mark: "*"
+    error_notification:
+      default_message: 'Лутфан, мушкилоти дар поён дида:'

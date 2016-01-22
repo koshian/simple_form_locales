@@ -1,0 +1,10 @@
+---
+hy:
+  simple_form:
+    'yes': Այո
+    'no': Ոչ
+    required:
+      text: պահանջվում
+      mark: "*"
+    error_notification:
+      default_message: 'Խնդրում ենք վերանայել խնդիրները ստորեւ:'

@@ -1,0 +1,10 @@
+---
+kn:
+  simple_form:
+    'yes': ಹೌದು
+    'no': ಯಾವುದೇ
+    required:
+      text: ಅಗತ್ಯವಿದೆ
+      mark: "*"
+    error_notification:
+      default_message: 'ಕೆಳಗೆ ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಶೀಲಿಸಿ:'

@@ -1,0 +1,10 @@
+---
+fa:
+  simple_form:
+    'yes': بله
+    'no': هیچ
+    required:
+      text: مورد نیاز
+      mark: "*"
+    error_notification:
+      default_message: 'لطفا مشکلات زیر را مرور:'

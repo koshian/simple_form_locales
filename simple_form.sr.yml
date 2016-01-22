@@ -1,0 +1,10 @@
+---
+sr:
+  simple_form:
+    'yes': Јесте
+    'no': Ne
+    required:
+      text: потребан
+      mark: "*"
+    error_notification:
+      default_message: 'Молимо Вас да прегледате проблеме у наставку:'

@@ -1,0 +1,10 @@
+---
+so:
+  simple_form:
+    'yes': Haa
+    'no': 'No'
+    required:
+      text: baahan yahay
+      mark: "*"
+    error_notification:
+      default_message: 'Fadlan dib u dhibaatooyinka hoos ku qoran:'

@@ -1,0 +1,10 @@
+---
+jw:
+  simple_form:
+    'yes': Ya
+    'no': Ora
+    required:
+      text: dibutuhake
+      mark: "*"
+    error_notification:
+      default_message: 'Mangga maneh masalah ing ngisor iki:'

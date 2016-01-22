@@ -1,0 +1,10 @@
+---
+mi:
+  simple_form:
+    'yes': Ae
+    'no': 'No'
+    required:
+      text: hiahiatia
+      mark: "*"
+    error_notification:
+      default_message: 'Tēnā arotake i te raruraru i raro:'

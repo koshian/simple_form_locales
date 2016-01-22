@@ -1,0 +1,10 @@
+---
+fi:
+  simple_form:
+    'yes': Kyllä
+    'no': Ei
+    required:
+      text: vaaditaan
+      mark: "*"
+    error_notification:
+      default_message: 'Tutustu ongelmia alla:'

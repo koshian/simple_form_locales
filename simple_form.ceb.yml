@@ -1,0 +1,10 @@
+---
+ceb:
+  simple_form:
+    'yes': Oo
+    'no': Dili
+    required:
+      text: gikinahanglan
+      mark: "*"
+    error_notification:
+      default_message: 'Palihug moribyu sa mga problema sa ubos:'

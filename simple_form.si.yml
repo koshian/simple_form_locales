@@ -1,0 +1,10 @@
+---
+si:
+  simple_form:
+    'yes': ඔව්
+    'no': නැත
+    required:
+      text: අවශ්ය
+      mark: "*"
+    error_notification:
+      default_message: 'පහත ප්රශ්න සමාලෝචනය කරන්න:'

@@ -1,0 +1,10 @@
+---
+sv:
+  simple_form:
+    'yes': Ja
+    'no': Nej
+    required:
+      text: nödvändig
+      mark: "*"
+    error_notification:
+      default_message: 'Läs igenom problemen nedan:'

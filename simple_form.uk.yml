@@ -1,0 +1,10 @@
+---
+uk:
+  simple_form:
+    'yes': Так
+    'no': Немає
+    required:
+      text: вимагається
+      mark: "*"
+    error_notification:
+      default_message: 'Будь ласка, ознайомтеся з нижче проблем:'

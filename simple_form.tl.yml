@@ -1,0 +1,10 @@
+---
+tl:
+  simple_form:
+    'yes': Oo
+    'no': Hindi
+    required:
+      text: kailangan
+      mark: "*"
+    error_notification:
+      default_message: 'Mangyaring suriin ang mga problema sa ibaba:'

@@ -1,0 +1,10 @@
+---
+lv:
+  simple_form:
+    'yes': Jā
+    'no': Nē
+    required:
+      text: nepieciešams
+      mark: "*"
+    error_notification:
+      default_message: 'Lūdzu, pārskatiet zemāk problēmas:'

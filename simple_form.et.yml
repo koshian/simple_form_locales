@@ -1,0 +1,10 @@
+---
+et:
+  simple_form:
+    'yes': Jah
+    'no': Ei ole
+    required:
+      text: nõutav
+      mark: "*"
+    error_notification:
+      default_message: 'Palun vaadake probleemid allpool:'

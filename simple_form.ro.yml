@@ -1,0 +1,10 @@
+---
+ro:
+  simple_form:
+    'yes': da
+    'no': Nu
+    required:
+      text: necesar
+      mark: "*"
+    error_notification:
+      default_message: 'Vă rugăm să revizuiți problemele de mai jos:'

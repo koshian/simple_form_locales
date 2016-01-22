@@ -1,0 +1,10 @@
+---
+ht:
+  simple_form:
+    'yes': Wi
+    'no': Pa gen
+    required:
+      text: mande
+      mark: "*"
+    error_notification:
+      default_message: 'Tanpri revize pwoblèm sa yo pi ba a:'

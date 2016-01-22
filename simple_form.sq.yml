@@ -1,0 +1,10 @@
+---
+sq:
+  simple_form:
+    'yes': po
+    'no': Asnjë
+    required:
+      text: i nevojshëm
+      mark: "*"
+    error_notification:
+      default_message: 'Ju lutemi të shqyrtojë problemet e mëposhtme:'

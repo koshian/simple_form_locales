@@ -1,0 +1,10 @@
+---
+pt:
+  simple_form:
+    'yes': sim
+    'no': Não
+    required:
+      text: requeridos
+      mark: "*"
+    error_notification:
+      default_message: 'Por favor, reveja os problemas abaixo:'

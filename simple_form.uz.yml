@@ -1,0 +1,10 @@
+---
+uz:
+  simple_form:
+    'yes': Ha
+    'no': Yo'q
+    required:
+      text: talab
+      mark: "*"
+    error_notification:
+      default_message: 'Quyidagi muammolarni ko''rib chiqing:'

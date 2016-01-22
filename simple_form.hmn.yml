@@ -1,0 +1,10 @@
+---
+hmn:
+  simple_form:
+    'yes': Yog
+    'no': Tsis
+    required:
+      text: yuav tsum tau
+      mark: "*"
+    error_notification:
+      default_message: 'Thov saib xyuas cov teeb meem hauv qab no:'

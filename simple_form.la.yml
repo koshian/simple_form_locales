@@ -1,0 +1,10 @@
+---
+la:
+  simple_form:
+    'yes': 'Yes'
+    'no': 'No'
+    required:
+      text: requiritur
+      mark: "*"
+    error_notification:
+      default_message: 'Please review quaestiones infra:'

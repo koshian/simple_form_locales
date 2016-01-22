@@ -1,0 +1,10 @@
+---
+az:
+  simple_form:
+    'yes': Bəli
+    'no': Yox
+    required:
+      text: lazım
+      mark: "*"
+    error_notification:
+      default_message: 'Aşağıdakı problemləri nəzərdən edin:'

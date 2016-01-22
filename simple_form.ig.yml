@@ -1,0 +1,10 @@
+---
+ig:
+  simple_form:
+    'yes': Ee
+    'no': Ọ dịghị
+    required:
+      text: chọrọ
+      mark: "*"
+    error_notification:
+      default_message: 'Biko nyochaa nsogbu n''okpuru:'

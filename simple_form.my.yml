@@ -1,0 +1,11 @@
+---
+my:
+  simple_form:
+    'yes': ဟုတ်ကဲ့
+    'no': အဘယ်သူမျှမ
+    required:
+      text: လိုအပ်သည်
+      mark: "*"
+    error_notification:
+      default_message: 'အောက်တွင်ဖော်ပြထားသောပြဿနာများကိုပြန်လည်သုံးသပ်ရန် ကျေးဇူးပြု.
+        :'

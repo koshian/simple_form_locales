@@ -1,0 +1,10 @@
+---
+cy:
+  simple_form:
+    'yes': Ydy
+    'no': Na
+    required:
+      text: sy'n ofynnol
+      mark: "*"
+    error_notification:
+      default_message: 'Darllenwch y problemau isod:'

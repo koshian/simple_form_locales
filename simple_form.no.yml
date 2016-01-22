@@ -1,0 +1,10 @@
+---
+'no':
+  simple_form:
+    'yes': Ja
+    'no': Nei
+    required:
+      text: påkrevd
+      mark: "*"
+    error_notification:
+      default_message: 'Les problemene nedenfor:'

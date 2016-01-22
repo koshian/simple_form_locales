@@ -1,0 +1,10 @@
+---
+yi:
+  simple_form:
+    'yes': יא
+    'no': נישט
+    required:
+      text: required
+      mark: "*"
+    error_notification:
+      default_message: 'ביטע אָפּשאַצונג די פּראָבלעמס ונטער:'

@@ -1,0 +1,10 @@
+---
+zu:
+  simple_form:
+    'yes': Yebo
+    'no': 'No'
+    required:
+      text: edingekayo
+      mark: "*"
+    error_notification:
+      default_message: 'Sicela ubuyekeze izinkinga ngezansi:'

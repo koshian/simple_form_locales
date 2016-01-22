@@ -1,0 +1,10 @@
+---
+ur:
+  simple_form:
+    'yes': جی ہاں
+    'no': نہیں
+    required:
+      text: ضرورت
+      mark: "*"
+    error_notification:
+      default_message: 'ذیل مسائل کا جائزہ لیں:'
